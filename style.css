@@ -49,5 +49,33 @@ margin-left: 95px;
      font-weight: bolder;
 }
 
+/* ===== MOBILE (HP) ===== */
+@media screen and (max-width: 768px) {
+.suit{
+    width: 250px;
+    height: 335px;
+    
+}
+
+.suit h1{
+    font-size: 55px;
+}
+
+.suit input{
+    width: 150px;
+   height: 50px;
+   margin-left: 50px;
+}
+
+.suit button{
+    margin-left: 107px;
+
+}
+
+.suit button:hover{
+    background-color: darkorchid;
+}
+
+}
 
 
